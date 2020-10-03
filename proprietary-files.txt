@@ -1,121 +1,121 @@
 # Audio
-lib/hw/audio.a2dp.default.so
-lib/hw/audio_policy.default.so
-lib/hw/audio.primary.default.so
-lib/hw/audio.primary.mrvl.so
-lib/libsamsungSoundbooster.so
-lib/lib_Samsung_SB_AM_for_ICS_v03008.so
-lib/libSamsungPreProcess.so
-lib/libSamsungPostProcess.so
-lib/libsamsungRecord.so
-lib/lib_SamsungRec_V04012.so
-lib/libacm.so
-lib/libacoustic.so
-lib/libippsp.so
-lib/libmiscgen.so
-lib/libippvp.so
-lib/libaudiodebugtool.so
-lib/libvcm.so
-lib/hw/audio.r_submix.default.so
-lib/hw/audio.usb.default.so
+aosp/lib/hw/audio.a2dp.default.so
+aosp/lib/hw/audio_policy.default.so
+aosp/lib/hw/audio.primary.default.so
+aosp/lib/hw/audio.primary.mrvl.so
+aosp/lib/libsamsungSoundbooster.so
+aosp/lib/lib_Samsung_SB_AM_for_ICS_v03008.so
+aosp/lib/libSamsungPreProcess.so
+aosp/lib/libSamsungPostProcess.so
+aosp/lib/libsamsungRecord.so
+aosp/lib/lib_SamsungRec_V04012.so
+aosp/lib/libacm.so
+aosp/lib/libacoustic.so
+aosp/lib/libippsp.so
+aosp/lib/libmiscgen.so
+aosp/lib/libippvp.so
+aosp/lib/libaudiodebugtool.so
+aosp/lib/libvcm.so
+aosp/lib/hw/audio.r_submix.default.so
+aosp/lib/hw/audio.usb.default.so
 
 # Bluetooth
-lib/hw/bluetooth.default.so
-lib/libbt-iopdb.so
-lib/libbt-iopdb_mod.so
-lib/libedmnativehelper.so
-vendor/lib/libbt-vendor.so
-lib/libMarvellWireless.so
-lib/libbt-codec_aptx.so
-lib/libbt-aptx-4.0.3.so
-lib/libbt-codec_sshd.so
+aosp/lib/hw/bluetooth.default.so
+aosp/lib/libbt-iopdb.so
+aosp/lib/libbt-iopdb_mod.so
+aosp/lib/libedmnativehelper.so
+aosp/vendor/lib/libbt-vendor.so
+aosp/lib/libMarvellWireless.so
+aosp/lib/libbt-codec_aptx.so
+aosp/lib/libbt-aptx-4.0.3.so
+aosp/lib/libbt-codec_sshd.so
 
 # Camera
-lib/hw/camera.mrvl.so
-lib/libcameraengine.so
-lib/libFaceDetect.so
-lib/libFlickerDetect.so
-lib/libb52sensorhal.so
-lib/libcodeccoda7542enc.so
-lib/libLENCMerge.so
-lib/libcoda7542.so
-lib/libmvmem.so
-lib/libcoda7542hal.so
-lib/libcodecjpegdec.so
-lib/libcodecjpegenc.so
-lib/libmedialib.so
-lib/libovdns.so
-lib/libPyramidUVDNS.so
-lib/libscenedetect.so
-lib/libextsensorhal.so
-lib/libsecnativefeature.so
+aosp/lib/hw/camera.mrvl.so
+aosp/lib/libcameraengine.so
+aosp/lib/libFaceDetect.so
+aosp/lib/libFlickerDetect.so
+aosp/lib/libb52sensorhal.so
+aosp/lib/libcodeccoda7542enc.so
+aosp/lib/libLENCMerge.so
+aosp/lib/libcoda7542.so
+aosp/lib/libmvmem.so
+aosp/lib/libcoda7542hal.so
+aosp/lib/libcodecjpegdec.so
+aosp/lib/libcodecjpegenc.so
+aosp/lib/libmedialib.so
+aosp/lib/libovdns.so
+aosp/lib/libPyramidUVDNS.so
+aosp/lib/libscenedetect.so
+aosp/lib/libextsensorhal.so
+aosp/lib/libsecnativefeature.so
 
 # GPS
-lib/hw/gps.mrvl.so
-lib/libagps_hal.so
-lib/libmtelif.so
-lib/libmtel.so
+aosp/lib/hw/gps.mrvl.so
+aosp/lib/libagps_hal.so
+aosp/lib/libmtelif.so
+aosp/lib/libmtel.so
 
 # GPU
-lib/hw/gralloc.default.so
-lib/hw/gralloc.mrvl.so
-lib/hw/hwcomposer.mrvl.so
-lib/libHWComposerGC.so
-lib/egl/libEGL_MRVL.so
-lib/egl/libGLESv1_CM_MRVL.so
-lib/egl/libGLESv2_MRVL.so
-lib/libgcu.so
-lib/libgpucsc.so
-lib/libGAL.so
-lib/libgputex.so
-lib/libVSC.so
-lib/libGLSLC.so
+aosp/lib/hw/gralloc.default.so
+aosp/lib/hw/gralloc.mrvl.so
+aosp/lib/hw/hwcomposer.mrvl.so
+aosp/lib/libHWComposerGC.so
+aosp/lib/egl/libEGL_MRVL.so
+aosp/lib/egl/libGLESv1_CM_MRVL.so
+aosp/lib/egl/libGLESv2_MRVL.so
+aosp/lib/libgcu.so
+aosp/lib/libgpucsc.so
+aosp/lib/libGAL.so
+aosp/lib/libgputex.so
+aosp/lib/libVSC.so
+aosp/lib/libGLSLC.so
 
 # Keystore
-lib/hw/keystore.default.so
-lib/hw/keystore.mrvl.so
-lib/libtee_client.so
+aosp/lib/hw/keystore.default.so
+aosp/lib/hw/keystore.mrvl.so
+aosp/lib/libtee_client.so
 
 # Lights
-lib/hw/lights.mrvl.so
-lib/libsecril-client.so
+aosp/lib/hw/lights.mrvl.so
+aosp/lib/libsecril-client.so
 
 # RIL
-bin/rild
-lib/libsec-ril.so
-lib/libsec-ril-dsds.so
+aosp/bin/rild
+aosp/lib/libsec-ril.so
+aosp/lib/libsec-ril-dsds.so
 
 # Time
-lib/hw/local_time.default.so
+aosp/lib/hw/local_time.default.so
 
 # Memtrack
-lib/hw/memtrack.mrvl.so
+aosp/lib/hw/memtrack.mrvl.so
 
 # NFC
-lib/hw/nfc_nci.mrvl.so
+aosp/lib/hw/nfc_nci.mrvl.so
 
 # Power
-#lib/hw/power.default.so
-#lib/hw/power.mrvl.so
+#aosp/lib/hw/power.default.so
+#aosp/lib/hw/power.mrvl.so
 
 # Sensors
-lib/hw/sensors.mrvl.so
-lib/libyasalgo.so
+aosp/lib/hw/sensors.mrvl.so
+aosp/lib/libyasalgo.so
 
 # Vibrator
 lib/hw/vibrator.default.so
 
-lib/libwvm.so
+aosp/lib/libwvm.so
 
 # Vendor libs
-vendor/Khronos/OpenCL/vendors/ocl32_mrvl.icd
-vendor/firmware/sec_s3fwrn7_firmware.bin
-vendor/lib/libWVStreamControlAPI_L3.so
-vendor/lib/libwvdrm_L3.so
-vendor/lib/mediadrm/libdrmclearkeyplugin.so
-vendor/lib/mediadrm/libwvdrmengine.so
-vendor/media/LMspeed_508.emd
-vendor/media/PFFprec_600.emd
+aosp/vendor/Khronos/OpenCL/vendors/ocl32_mrvl.icd
+aosp/vendor/firmware/sec_s3fwrn7_firmware.bin
+aosp/vendor/lib/libWVStreamControlAPI_L3.so
+aosp/vendor/lib/libwvdrm_L3.so
+aosp/vendor/lib/mediadrm/libdrmclearkeyplugin.so
+aosp/vendor/lib/mediadrm/libwvdrmengine.so
+aosp/vendor/media/LMspeed_508.emd
+aosp/vendor/media/PFFprec_600.emd
 
 # Extras
-#lib/libxml2.so
+#aosp/lib/libxml2.so
